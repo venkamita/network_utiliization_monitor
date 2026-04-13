@@ -17,6 +17,7 @@ This project demonstrates:
 Single switch topology with 3 hosts:
 h1 --- s1 --- h2
          |
+         |
         h3
 
 ---
