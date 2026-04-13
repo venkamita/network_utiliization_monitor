@@ -15,10 +15,12 @@ This project demonstrates:
 
 ## 🏗️ Topology
 Single switch topology with 3 hosts:
-h1 --- s1 --- h2
-         \/
-         \/
-        h3
+```mermaid
+graph LR
+  h1 --- s1
+  s1 --- h2
+  s1 --- h3
+```
 
 ---
 
