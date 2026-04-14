@@ -61,7 +61,7 @@ mininet>iperf h1 h2
 ---
 ## Results
 ### Normal:
-![image](Screenshots/NNormal/normal-1.jpeg)
+![image](Screenshots/NNormal/normal-1.png)
 ![image](Screenshots/NNormal/normal-2.jpeg)
 ![image](Screenshots/NNormal/normal-3.jpeg)
 ![image](Screenshots/NNormal/normal-4.jpeg)
