@@ -60,7 +60,20 @@ mininet>iperf h1 h2
 ```
 ---
 ## Results
-Refer Screenshots folder for result photos
+### Normal:
+![image](Screenshots/NNormal/normal-1.jpeg)
+![image](Screenshots/NNormal/normal-2.jpeg)
+![image](Screenshots/NNormal/normal-3.jpeg)
+![image](Screenshots/NNormal/normal-4.jpeg)
+![image](Screenshots/NNormal/normal-5.jpeg)
+
+### Failure:
+![image](Screenshots/failure/failure-1.jpeg)
+![image](Screenshots/failure/failure-2.jpeg)
+![image](Screenshots/failure/failure-3.jpeg)
+![image](Screenshots/failure/failure-4.jpeg)
+![image](Screenshots/failure/failure-5.jpeg)
+
 
 ---
 ## Contributor
