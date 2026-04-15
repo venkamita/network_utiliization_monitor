@@ -78,4 +78,21 @@ mininet>iperf h1 h2
 ---
 ## Contributor
 Sharat Doddihal (PES1UG24CS430)
+---
+## 📚 References
+
+1. Open Networking Foundation (ONF) – SDN Overview  
+   https://opennetworking.org/sdn-definition/
+
+2. Ryu SDN Framework Documentation  
+   https://ryu.readthedocs.io/
+
+3. Mininet Network Emulator  
+   http://mininet.org/
+
+4. OpenFlow Switch Specification  
+   https://opennetworking.org/sdn-resources/openflow-switch-specification/
+
+5. Wireshark Documentation  
+   https://www.wireshark.org/docs/
 
